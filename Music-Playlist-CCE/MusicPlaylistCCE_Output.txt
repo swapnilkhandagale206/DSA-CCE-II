@@ -1,0 +1,95 @@
+
+===== MUSIC PLAYLIST MANAGER =====
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Display Playlist in Reverse
+5. Play Current Song
+6. Play Next Song
+7. Play Previous Song
+8. Play Complete Playlist
+9. Repeat All
+10. Show Current Song
+11. Exit
+
+Enter your choice: 1
+Enter Song Title: Believer
+Enter Artist Name: Imagine Dragons
+Song added successfully!
+
+Enter your choice: 1
+Enter Song Title: Perfect
+Enter Artist Name: Ed Sheeran
+Song added successfully!
+
+Enter your choice: 1
+Enter Song Title: Night Changes
+Enter Artist Name: One Direction
+Song added successfully!
+
+Enter your choice: 3
+
+--- Music Playlist ---
+Song: Believer | Artist: Imagine Dragons
+Song: Perfect | Artist: Ed Sheeran
+Song: Night Changes | Artist: One Direction
+
+Enter your choice: 5
+
+Now Playing: Believer - Imagine Dragons
+
+Enter your choice: 6
+
+Now Playing: Perfect - Ed Sheeran
+
+Enter your choice: 6
+
+Now Playing: Night Changes - One Direction
+
+Enter your choice: 7
+
+Now Playing: Perfect - Ed Sheeran
+
+Enter your choice: 4
+
+--- Reverse Playlist ---
+Song: Night Changes | Artist: One Direction
+Song: Perfect | Artist: Ed Sheeran
+Song: Believer | Artist: Imagine Dragons
+
+Enter your choice: 8
+
+--- Playing Complete Playlist ---
+Playing: Believer - Imagine Dragons
+Playing: Perfect - Ed Sheeran
+Playing: Night Changes - One Direction
+
+Enter your choice: 9
+Enter number of repetitions: 2
+
+Repetition 1
+Playing: Believer - Imagine Dragons
+Playing: Perfect - Ed Sheeran
+Playing: Night Changes - One Direction
+
+Repetition 2
+Playing: Believer - Imagine Dragons
+Playing: Perfect - Ed Sheeran
+Playing: Night Changes - One Direction
+
+Enter your choice: 10
+
+Now Playing: Perfect - Ed Sheeran
+
+Enter your choice: 2
+Enter song title to delete: Perfect
+Song deleted successfully!
+
+Enter your choice: 3
+
+--- Music Playlist ---
+Song: Believer | Artist: Imagine Dragons
+Song: Night Changes | Artist: One Direction
+
+Enter your choice: 11
+Exiting Music Playlist Manager!
