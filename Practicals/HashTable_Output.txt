@@ -1,0 +1,57 @@
+
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter choice: 1
+Enter key: 25
+Inserted successfully.
+
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter choice: 1
+Enter key: 35
+Inserted successfully.
+
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter choice: 1
+Enter key: 15
+Inserted successfully.
+
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter choice: 2
+Enter key to search: 35
+Key found at index 6
+
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter choice: 3
+
+Hash Table:
+0 -> -1
+1 -> -1
+2 -> -1
+3 -> -1
+4 -> -1
+5 -> 25
+6 -> 35
+7 -> 15
+8 -> -1
+9 -> -1
+
+1. Insert
+2. Search
+3. Display
+4. Exit
+Enter choice: 4
+Exiting...
