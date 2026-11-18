@@ -1,0 +1,11 @@
+
+Enter postfix expression: 23*54*+9-
+
+Answer = 17
+
+
+
+Enter postfix expression: 23+5*
+
+Answer = 25
+
