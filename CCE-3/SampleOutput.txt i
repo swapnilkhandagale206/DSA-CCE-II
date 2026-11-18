@@ -1,0 +1,64 @@
+
+===== COLLEGE CAMPUS ROUTE FINDER =====
+1. Add Campus Location
+2. Add Road
+3. Display Campus Network
+4. Find Shortest Route
+5. BFS Traversal
+6. DFS Traversal
+7. Exit
+
+Enter your choice: 1
+Enter location name (no spaces): Library
+Location added successfully!
+
+Enter your choice: 1
+Enter location name (no spaces): Canteen
+Location added successfully!
+
+Enter your choice: 1
+Enter location name (no spaces): MainGate
+Location added successfully!
+
+Enter your choice: 2
+Enter starting location: Library
+Enter destination: Canteen
+Enter distance: 5
+Road added successfully!
+
+Enter your choice: 2
+Enter starting location: Canteen
+Enter destination: MainGate
+Enter distance: 3
+Road added successfully!
+
+Enter your choice: 2
+Enter starting location: Library
+Enter destination: MainGate
+Enter distance: 10
+Road added successfully!
+
+Enter your choice: 3
+
+Campus Network:
+Library -> Canteen(5) MainGate(10)
+Canteen -> Library(5) MainGate(3)
+MainGate -> Library(10) Canteen(3)
+
+Enter your choice: 4
+Enter starting location: Library
+Enter destination: MainGate
+
+Shortest Route: Library -> Canteen -> MainGate
+Total Distance: 8 units
+
+Enter your choice: 5
+Enter starting location: Library
+BFS Traversal: Library Canteen MainGate
+
+Enter your choice: 6
+Enter starting location: Library
+DFS Traversal: Library Canteen MainGate
+
+Enter your choice: 7
+Thank you for using Campus Route Finder!
