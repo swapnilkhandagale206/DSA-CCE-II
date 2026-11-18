@@ -1,0 +1,4 @@
+
+Enter number of elements: 5
+Enter 5 elements: 64 34 25 12 22
+Sorted array: 12 22 25 34 64
