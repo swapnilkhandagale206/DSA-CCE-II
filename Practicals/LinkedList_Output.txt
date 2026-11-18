@@ -1,0 +1,53 @@
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 10
+Node inserted successfully.
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 20
+Node inserted successfully.
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 30
+Node inserted successfully.
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter choice: 3
+Linked List: 10 -> 20 -> 30 -> NULL
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter choice: 2
+Enter value to delete: 20
+Node deleted.
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter choice: 3
+Linked List: 10 -> 30 -> NULL
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter choice: 4
+Exiting...
