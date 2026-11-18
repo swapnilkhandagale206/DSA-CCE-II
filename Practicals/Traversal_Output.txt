@@ -1,0 +1,12 @@
+
+Enter number of elements: 5
+Enter 5 elements: 12 25 36 48 60
+Enter element to search: 36
+Element found at position 3
+
+
+
+Enter number of elements: 5
+Enter 5 elements: 12 25 36 48 60
+Enter element to search: 100
+Element not found!
